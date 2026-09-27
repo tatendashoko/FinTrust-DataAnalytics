@@ -1,7 +1,9 @@
 # FinTrust Digital Bank — Data Analytics Track
 
-**Intern:** Tatenda Shoko
+
+
 **Program:** AnalystLab Africa Experience Lab
+
 **Project:** FinTrust Financial Intelligence & Digital Banking Support Solution
 **Track:** Data Analytics
 
